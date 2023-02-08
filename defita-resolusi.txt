@@ -2,5 +2,4 @@ DEFITA RESOLUSI
 -Konsisten belajar
 -Mengurangi makan mie instant
 -Ujian praktek lancar
--Mendapatkan nilai UKK bagus
--Mambuat web
+-Membuat web
