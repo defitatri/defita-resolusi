@@ -4,3 +4,4 @@ Ini adalah branch baru punya defita
 -widayanti
 -nama
 -saya
+-adalah
