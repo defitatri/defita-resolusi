@@ -1,5 +1,7 @@
 Ini adalah branch baru punya defita
 -defita
+*pita
+*defi
 -tri
 -widayanti
 -nama
